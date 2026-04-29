@@ -54,5 +54,6 @@ Especializado en la construcción de **Ecosistemas de IA Tolerantes a Fallos**. 
 </p>
 
 ---
-**Powered by Global Defense IA - 2024**  
-*Diseñando el futuro de la autonomía digital.*
+---
+**Powered by Global Defense IA - 2026**  
+*Arquitectando el futuro de la autonomía digital y la soberanía tecnológica.*
